@@ -1,6 +1,6 @@
 #implementation Add Fn
 def add(x,y)
-    pass
+    return x+y
 #implementation Sub Fn
 def subtract(x,y)  
     pass
